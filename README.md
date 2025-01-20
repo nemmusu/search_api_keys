@@ -1,5 +1,5 @@
 
-# Find API Keys in AndroidManifest.xml
+# Search for API Keys in AndroidManifest.xml
 
 This Python script scans (recursively in a folder or a single file) for API keys in the `<meta-data>` tag within `AndroidManifest.xml` files.
 
